@@ -2,7 +2,7 @@
 
 **Motto:** Cultivating Data Skills
 
-- Welcome to the Data Science Club! 
+- Welcome to the KCAU Data Science Club! 
 - We are a community of data enthusiasts dedicated to exploring, learning, and applying data science techniques.
 - Our club is open to everyone, from beginners to experienced professionals, who share a passion for uncovering insights from data.
 
