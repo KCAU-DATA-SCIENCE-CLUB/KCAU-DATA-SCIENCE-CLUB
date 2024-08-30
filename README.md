@@ -30,5 +30,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib Logo" width="100" height="100">
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn Logo" width="150" height="100">
 </p>
-## Get Involved
-Join us in cultivating your data skills! Whether you're looking to learn the basics or tackle complex data science problems, our club is the perfect place to start.
+ 
+ ## Get Involved
+- Join us in cultivating your data skills!
+- Whether you're looking to learn the basics or tackle complex data science problems, our club is the perfect place to start.
